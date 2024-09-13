@@ -1,0 +1,21 @@
+{
+  "name": "Celestial-Monokai-dark",
+  "displayName": "Celestial Monokai",
+  "description": "A vscode dark theme that capture essence of modern dark theme with custom code color pallete.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Celestial Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Celestial Monokai-color-theme.json"
+      }
+    ]
+  }
+}
