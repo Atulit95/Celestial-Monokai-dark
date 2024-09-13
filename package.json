@@ -3,8 +3,12 @@
   "displayName": "Celestial Monokai",
   "description": "A vscode dark theme that capture essence of modern dark theme with custom color pallete for code/text.",
   "version": "0.0.1",
-  "publisher": "Atulit Gupta",
+  "publisher": "AtulitGupta",
   "icon": "images/Celestial Monokai.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Atulit95/Celestial-Monokai-dark"
+  },
   "engines": {
     "vscode": "^1.93.0"
   },
