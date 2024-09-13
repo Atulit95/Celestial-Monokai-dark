@@ -24,4 +24,4 @@ Some font settings that I use:
     "window.zoomLevel": 1,
     "editor.wordWrap": "on",
 ```
-# My Name is `Atulit Gupta` and I am a Web Developer and Python programmer.
+My Name is `Atulit Gupta` and I am a Web Developer and Python programmer.
