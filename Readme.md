@@ -9,7 +9,7 @@ It took me around 11 month to analyse all these issues and finally publish this 
 
 
 # Celestiial Monokai Dark
-![Image]("images/dark-theme.png")
+![Image](images/dark-theme.png)
 
 ### Features
 
