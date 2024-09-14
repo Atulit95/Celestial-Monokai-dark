@@ -1,6 +1,6 @@
 {
-	"name": "Celestial Monokai",
-	"colors": {
+  "name": "Celestial Monokai",
+  "colors": {
     "activityBar.activeBorder": "#0078D4",
     "activityBar.background": "#181818",
     "activityBar.border": "#2B2B2B",
@@ -182,7 +182,7 @@
     {
       "name": "Keyword",
       "scope": "keyword",
-      "settings": { "foreground": "#f700a4" }
+      "settings": { "foreground": "#fa24c4" }
     },
     {
       "name": "Storage",
@@ -219,10 +219,43 @@
       "scope": "entity.name.tag",
       "settings": { "fontStyle": "", "foreground": "#308af1" }
     },
+    // for css -------------------------------
+
+      {"name": "",
+      "scope": "string.quoted.single.css",
+      "settings": { "fontStyle": "", "foreground": "#CE9178" }},
+
+      {"name": "",
+      "scope": "entity.name.tag.css meta.selector.css",
+      "settings": { "fontStyle": "", "foreground": "#D7BA7D" }},
+      {"name": "",
+      "scope": "punctuation.section.property-list.end.bracket.curly.css",
+      "settings": { "fontStyle": "", "foreground": "#D7BA7D" }},
+
+      {"name": "",
+      "scope": "support.type.property-name.css, meta.property-name.css meta.property-list.css",
+      "settings": { "fontStyle": "", "foreground": "#ebe4a8" }},
+      
+      
+      {"name": "",
+      "scope": "support.constant.property-value",
+      "settings": { "fontStyle": "", "foreground": "#CE9178" }},
+      {"name": "",
+      "scope": "entity.other.attribute-name.pseudo-element.css",
+      "settings": { "fontStyle": "", "foreground": "#f5f0ee" }},
+
+      
+
+      {"name": "",
+      "scope": "keyword.other.unit ",
+      "settings": { "fontStyle": "", "foreground": "#B5CEA8" }},
+      
+
+    // -------------------------------------
     {
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
-      "settings": { "fontStyle": "", "foreground": "#f369f8" }
+      "settings": { "fontStyle": "", "foreground": "#69e3f8" }
     },
     {
       "name": "Library function",
