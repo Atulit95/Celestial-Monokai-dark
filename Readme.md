@@ -6,12 +6,12 @@ people who want to maintain their aesthetic from vscode modern dark theme but th
 It took me around 11 month to analyse all these issues and finally publish this theme.
 
 
-# Celestiial Monokai Dark
+# Celestial Monokai Dark
 ![Image](images/dark-theme.png)
 
 ### Features
 
-+ Best in recoding videos
++ Best in recording videos
 + Highlights your active tab
 + Each language token is customized
 
